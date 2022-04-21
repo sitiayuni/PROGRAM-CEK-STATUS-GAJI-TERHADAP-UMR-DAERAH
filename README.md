@@ -5,5 +5,4 @@ program ini dibuat untuk mengecek inputan gaji seseorang terhadap inputan UMR
 
 Program ini dibuat oleh :
 NAMA : SITI AYUNI
-
 NPM  : 2117051068
